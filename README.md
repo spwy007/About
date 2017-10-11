@@ -1,18 +1,26 @@
-Here's some things that GitHub can do that I think are kinda cool
+ 这是我在github的主页。
 
 # GitHub pages (with Jekyll)
-As it turns out, it's pretty easy to turn your `README.md` into its own stylish looking page. If you're not already, check out [this page](https://davidgilbertson.github.io/about-github) to see this readme wrapped in a Jekyll theme.
+github的个人主页，用于记录一些日常吧.
 
-# Project board
-Click [Projects](https://github.com/davidgilbertson/about-github/projects) up the top of this page to see the projects.
+# 项目介绍
+大部分是fork别人的 [Projects](https://github.com/spwy007)。
+现在正努力学习中。
 
-# Milestones
-Here's an example [Go live](https://github.com/davidgilbertson/about-github/milestone/1) milestone with issues sorted into a particular order
+# 个人爱好
+* Python
+* Linux
+* Github
+* BigData
+* 美剧
+* 音乐（KTV...）
 
-# Wiki
-You guesssed it, click [Wiki](https://github.com/davidgilbertson/about-github/wiki) up the top
+# 文档（Wiki）
+目前没啥，过段时间想到啥再写。
 
-# User Voice
-You can track your feature requests, and allow users to vote, using GitHub issues. Describe the feature request, add an up and a down thumb. Then, with a link to your issues with the "Feature Request" label, you've got a feature voting system. Here's a short list of dummy [feature requests](https://github.com/davidgilbertson/about-github/labels/Feature%20Request).
+# 最后
+嗯，就这样先。
 
-I first saw this done by [Scrimba](https://github.com/scrimba/community/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
+感谢 [Scrimba](https://github.com/scrimba/community/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
+
+感谢 [David Gilbertson](https://github.com/davidgilbertson)
