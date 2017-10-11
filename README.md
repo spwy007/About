@@ -1,4 +1,4 @@
- 这是我在github的主页。
+众里寻他千百度，蓦然回首，那人却在灯火阑珊处。
 
 # GitHub pages (with Jekyll)
 github的个人主页，用Jekyll制作，模板是Cayman。用于记录一些日常吧.
