@@ -1,7 +1,7 @@
  这是我在github的主页。
 
 # GitHub pages (with Jekyll)
-github的个人主页，用于记录一些日常吧.
+github的个人主页，用Jekyll制作，模板是Cayman。用于记录一些日常吧.
 
 # 项目介绍
 大部分是fork别人的 [Projects](https://github.com/spwy007)。
